@@ -1,0 +1,8 @@
+
+Nagios Google Map project is an initiative to create the application to 
+integrate Nagios with Google maps.
+The built-in Map of Nagios only shows the relationship among the hosts, with no information about the locations. By using google map, managers could quickly identify the exact locations where down hosts are, and send the person in charge to fix the problems.
+
+It is developed based on the codes written by maco, which can be found at http://exchange.nagios.org/directory/Addons/Maps-and-Diagrams/nagmap/details.
+
+

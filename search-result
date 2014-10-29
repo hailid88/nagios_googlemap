@@ -1,0 +1,1 @@
+./functions.php:            die("In-hose config file line (".$line.") which contains only one column. This is not right!");
