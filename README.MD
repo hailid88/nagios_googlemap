@@ -9,6 +9,7 @@ We significantly improved the codes written by Maco to support the visualization
 Usage
 ------------------
 By using the AddHost function (shown in the repository at https://github.com/hailid88/nagios_addhost), users can input the spatial location. Then both spatial and logical relations between SNAPS sensors are shown on Google map. One example is illustrated as follows:
+
 ![](https://github.com/hailid88/nagios_googlemap/blob/master/nagmap%20web%20interface.png)
 
 
